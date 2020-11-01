@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NoteSet()
+comment0.text=\n\ The\ default\ constructor,\ which\ creates\ the\ set\ of\ all\ possible\ notes\ in\ an\ \n\ octave,\ from\ Cb\ to\ B\#,\ assigning\ them\ integer\ note\ values\ -1\ through\ 12,\ \n\ and\ String\ name\ values\n
+numComments=1

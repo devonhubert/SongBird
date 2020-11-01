@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=MainWindow(java.lang.String)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\n\ Handles\ the\ pressing\ of\ the\ "Song\ Generator"\ button\ (opens\ a\ new\ window)\n\ \n\ @param\ e\ The\ ActionEvent\ triggered\ by\ pressing\ the\ "Song\ Generator"\ button\n
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.text=\n\ Handles\ the\ closing\ of\ the\ Main\ window,\ re-setting\ settings\ to\n\ their\ defaults\n\ \n\ @param\ e\ The\ WindowEvent\ triggered\ by\ closing\ the\ Main\ window\n
+comment3.params=e
+comment3.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment4.params=e
+comment4.target=void\ windowActivated(java.awt.event.WindowEvent)
+comment5.params=e
+comment5.target=void\ windowIconified(java.awt.event.WindowEvent)
+comment6.params=e
+comment6.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+comment7.params=e
+comment7.target=void\ windowDeactivated(java.awt.event.WindowEvent)
+comment8.params=e
+comment8.target=void\ windowClosed(java.awt.event.WindowEvent)
+numComments=9
