@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: SongBird
+PURPOSE OF PROJECT: To generate chord progressions, do basic voice leading, and teach students about scales and modes.
+VERSION or DATE: Version 1, Created in 2016
+AUTHORS: Devon Hubert
